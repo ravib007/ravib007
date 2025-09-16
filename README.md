@@ -5,7 +5,7 @@ DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || 
 **About Me**:DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,and tools like Git, Docker,Terraform,and Jenkins.Experienced in optimizing deployments, automating infrastructure, and enhancing system performance.Passionate about driving innovation and contributing to impactful projects.
 
 **🔧 Technologies and Tools**:         
-    **Cloud :** AWS and Azure 
+    **Cloud :** AWS and Azure <br> 
     **Tools :** DevOps
     **Containerization** :Docker & Kubernetes
     **CICD:** Jenkins, GitLab CICD, Azure DevOps.
