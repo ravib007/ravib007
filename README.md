@@ -1,8 +1,8 @@
 # 💫 About Me:
-<br><br>**DevOps Engineer || Software Analyst<br>**
-DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || <br>Shell Scripting || AWS Services || Docker<br>|| Kubernetes || Terraform ||  ArgoCD ||<br>Azure services || Prometheus ||Grafana || splunk ||<br> AWS Certified Solution Architect.
+**DevOps Engineer || Software Analyst**
+DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || Shell Scripting || AWS Services || Docker|| Kubernetes || Terraform ||  ArgoCD ||<br>Azure services || Prometheus ||Grafana || splunk || AWS Certified Solution Architect.
 
-**About Me**:<br><br>DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,<br><br>and tools like Git, Docker, Terraform, and Jenkins. Experienced in optimizing <br>deployments, automating infrastructure, and enhancing system performance. <br>Passionate about driving <br><br>innovation and contributing to impactful projects.
+**About Me**:DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,and tools like Git, Docker, Terraform, and Jenkins. Experienced in optimizing <br>deployments, automating infrastructure, and enhancing system performance.Passionate about driving innovation and contributing to impactful projects.
 **🔧 Technologies and Tools**:         
     **Cloud :** AWS and Azure 
     **Tools :** DevOps
@@ -16,8 +16,8 @@ DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || 
     👯 **I'm looking to collaborate on**:
     Open-source projects related to DevOps, cloud-native technologies, and automation
     Building scalable and highly available systems
-    🏆 **Certifications**<br>AWS Certified Solutions Architect - Associate
-    🎖️ **Badges**<br><img width="392" height="42" alt="image" src="https://github.com/user-attachments/assets/0d710919-7b8b-407b-aa52-41145c5858bf" />
+    🏆 **Certifications**AWS Certified Solutions Architect - Associate
+    🎖️ **Badges**<img width="392" height="42" alt="image" src="https://github.com/user-attachments/assets/0d710919-7b8b-407b-aa52-41145c5858bf" />
 
 
 ## 🌐 Socials:
