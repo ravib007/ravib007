@@ -2,7 +2,8 @@
 **DevOps Engineer || Software Analyst**
 DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || Shell Scripting || AWS Services || Docker|| Kubernetes || Terraform ||  ArgoCD ||<br>Azure services || Prometheus ||Grafana || splunk || AWS Certified Solution Architect.
 
-**About Me**:DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,and tools like Git, Docker, Terraform, and Jenkins. Experienced in optimizing <br>deployments, automating infrastructure, and enhancing system performance.Passionate about driving innovation and contributing to impactful projects.
+**About Me**:DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,and tools like Git, Docker,Terraform,and Jenkins.Experienced in optimizing deployments, automating infrastructure, and enhancing system performance.Passionate about driving innovation and contributing to impactful projects.
+
 **🔧 Technologies and Tools**:         
     **Cloud :** AWS and Azure 
     **Tools :** DevOps
