@@ -1,25 +1,22 @@
 # 💫 About Me:
-<br><br>**DevOps Engineer || Software Analyst<br>**<br> <br>
-
-DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || <br>Shell Scripting || AWS Services || Docker<br>|| Kubernetes || Terraform ||  ArgoCD ||<br>Azure services || Prometheus ||Grafana || splunk ||<br> AWS Certified Solution Architect.<br><br><br><br><br><br>
-
-**About Me**:<br><br>DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,<br><br>and tools like Git, Docker, Terraform, and Jenkins. Experienced in optimizing <br>deployments, automating infrastructure, and enhancing system performance. <br>Passionate about driving <br><br>innovation and contributing to impactful projects.<br><br><br><br><br><br>
-
-**🔧 Technologies and Tools**:<br><br><br>         
-    **Cloud :** AWS and Azure<br><br><br> 
-    **Tools :** DevOps<br><br><br>
-    **Containerization** :Docker & Kubernetes<br><br><br>
-    **CICD:** Jenkins, GitLab CICD, Azure DevOps.<br><br><br>
-    **Configuration** : Ansible & Terraform<br><br><br>
-    **Scripting:** Bash, yaml, shell, javascript.<br><br><br>
-    **Version Control:** Git, GitHub<br><br><br><br>
-    🌱**I’m currently learning**:Azure DevOps, & Kubernetes<br><br><br><br>
-    📫 **How to reach me:** ravimca2012@gmail.com<br><br><br><br><br>
-    👯 **I'm looking to collaborate on**:<br><br>
-    Open-source projects related to DevOps, cloud-native technologies, and automation<br><br><br>
-    Building scalable and highly available systems<br><br> <br><br><br>
-    🏆 **Certifications**<br>AWS Certified Solutions Architect - Associate<br><br><br>
-    🎖️ **Badges**<br><img width="392" height="42" alt="image" src="https://github.com/user-attachments/assets/0d710919-7b8b-407b-aa52-41145c5858bf" /><br><br><br><br><br>
+<br><br>**DevOps Engineer || Software Analyst<br>**
+DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || <br>Shell Scripting || AWS Services || Docker<br>|| Kubernetes || Terraform ||  ArgoCD ||<br>Azure services || Prometheus ||Grafana || splunk ||<br> AWS Certified Solution Architect.
+**About Me**:<br><br>DevOps enthusiast with expertise in AWS, Kubernetes, CI/CD pipelines,<br><br>and tools like Git, Docker, Terraform, and Jenkins. Experienced in optimizing <br>deployments, automating infrastructure, and enhancing system performance. <br>Passionate about driving <br><br>innovation and contributing to impactful projects.
+**🔧 Technologies and Tools**:         
+    **Cloud :** AWS and Azure 
+    **Tools :** DevOps
+    **Containerization** :Docker & Kubernetes
+    **CICD:** Jenkins, GitLab CICD, Azure DevOps.
+    **Configuration** : Ansible & Terraform
+    **Scripting:** Bash, yaml, shell, javascript.
+    **Version Control:** Git, GitHub
+    🌱**I’m currently learning**:Azure DevOps,& Kubernetes
+    📫 **How to reach me:** ravimca2012@gmail.com
+    👯 **I'm looking to collaborate on**:
+    Open-source projects related to DevOps, cloud-native technologies, and automation
+    Building scalable and highly available systems
+    🏆 **Certifications**<br>AWS Certified Solutions Architect - Associate
+    🎖️ **Badges**<br><img width="392" height="42" alt="image" src="https://github.com/user-attachments/assets/0d710919-7b8b-407b-aa52-41145c5858bf" />
 
 
 ## 🌐 Socials:
