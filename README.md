@@ -16,10 +16,9 @@ DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || 
     📫 **How to reach me:** ravimca2012@gmail.com<br>
     👯 **I'm looking to collaborate on**:
     Open-source projects related to DevOps, cloud-native technologies, and automation
-    Building scalable and highly available systems<br>
-    
-    🏆 **Certifications**AWS Certified Solutions Architect - Associate<br>
-    🎖️ **Badges**<img width="392" height="47" alt="image" src="https://github.com/user-attachments/assets/b2bbc4fa-4d91-4ab9-b08e-8a2d65b6b29b" />
+    Building scalable and highly available systems
+    🏆 **Certifications**: AWS Certified Solutions Architect - Associate<br>
+    🎖️ **Badges**<br><img width="392" height="47" alt="image" src="https://github.com/user-attachments/assets/b2bbc4fa-4d91-4ab9-b08e-8a2d65b6b29b" />
 
     
 ## 🌐 Socials:
