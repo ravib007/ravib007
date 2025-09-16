@@ -13,13 +13,11 @@ DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || 
     **Configuration** : Ansible & Terraform<br><br><br>
     **Scripting:** Bash, yaml, shell, javascript.<br><br><br>
     **Version Control:** Git, GitHub<br><br><br><br>
-    
-    🌱 **I’m currently learning:**  Azure DevOps, & Kubernetes<br><br><br><br>
+    🌱**I’m currently learning**:Azure DevOps, & Kubernetes<br><br><br><br>
     📫 **How to reach me:** ravimca2012@gmail.com<br><br><br><br><br>
     👯 **I'm looking to collaborate on**:<br><br>
     Open-source projects related to DevOps, cloud-native technologies, and automation<br><br><br>
     Building scalable and highly available systems<br><br> <br><br><br>
-    
     🏆 **Certifications**<br>AWS Certified Solutions Architect - Associate<br><br><br>
     🎖️ **Badges**<br><img width="392" height="42" alt="image" src="https://github.com/user-attachments/assets/0d710919-7b8b-407b-aa52-41145c5858bf" /><br><br><br><br><br>
 
