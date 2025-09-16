@@ -18,9 +18,9 @@ DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || 
     Open-source projects related to DevOps, cloud-native technologies, and automation
     Building scalable and highly available systems
     🏆 **Certifications**AWS Certified Solutions Architect - Associate
-    🎖️ **Badges**<img width="392" height="42" alt="image" src="https://github.com/user-attachments/assets/0d710919-7b8b-407b-aa52-41145c5858bf" />
+    🎖️ **Badges**<img width="392" height="47" alt="image" src="https://github.com/user-attachments/assets/b2bbc4fa-4d91-4ab9-b08e-8a2d65b6b29b" />
 
-
+    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Ravikumar12balu/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/b.ravikumar_official/?igsh=NDlwY2w0b3A1aHMz#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-kumar-b-40b39532/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ralstonravi?t=TsAaiwidxvLUX_3NAHeH5g&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ravikumarb3895) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravimca2012@gmail.com) 
 
