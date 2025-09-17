@@ -1,4 +1,4 @@
-# 💫 About Me:<img width="392" height="47" alt="image" src="https://github.com/user-attachments/assets/b2bbc4fa-4d91-4ab9-b08e-8a2d65b6b29b" />
+# 💫 About Me:
 **AWS DevOps Engineer || Software Analyst**<br>
 DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || Shell Scripting || AWS Services || Docker|| Kubernetes || Terraform || ArgoCD ||Azure services || Prometheus ||Grafana || splunk || AWS Certified Solution Architect.
 
