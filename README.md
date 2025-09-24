@@ -19,6 +19,8 @@ DevOps Engineer || GIT || GIT HUB || Maven || Jenkins|| Sonarqube || Ansible || 
     Building scalable and highly available systems<br><br>
     🏆 **Certifications**:<br> AWS Certified Solutions Architect - Associate<br>
     🎖️ **Badges**<br><img width="392" height="47" alt="image" src="https://github.com/user-attachments/assets/b2bbc4fa-4d91-4ab9-b08e-8a2d65b6b29b" />
+    <img width="168" height="168" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/39e05aef-6a0c-477b-b425-ea2eec656e63" />
+
 
     
 ## 🌐 Socials:
